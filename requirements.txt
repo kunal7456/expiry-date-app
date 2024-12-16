@@ -1,7 +1,7 @@
 streamlit
 paddlepaddle
 paddleocr
-opencv-python
+opencv-python-headless
 ultralytics
 numpy
 matplotlib
