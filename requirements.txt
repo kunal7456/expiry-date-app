@@ -1,0 +1,7 @@
+streamlit
+paddlepaddle
+paddleocr
+opencv-python
+ultralytics
+numpy
+matplotlib
